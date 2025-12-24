@@ -1,0 +1,5 @@
+{
+  "name": "Sổ theo dõi thai kỳ",
+  "description": "Một ứng dụng PWA giúp theo dõi thai kỳ, quản lý thông tin gia đình và các lần khám thai, với khả năng tùy chỉnh giao diện và xuất dữ liệu.",
+  "requestFramePermissions": []
+}
