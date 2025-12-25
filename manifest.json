@@ -1,5 +1,5 @@
 {
-  "short_name": "Thai Kỳ",
+  "short_name": "Sổ theo dõi thai kỳ",
   "name": "Sổ theo dõi thai kỳ",
   "icons": [
     {
@@ -13,7 +13,7 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "./",
+  "start_url": "/",
   "display": "standalone",
   "theme_color": "#4f46e5",
   "background_color": "#ffffff"
